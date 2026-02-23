@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Gesture and Prosody Alignment at Twi–English Code-Switching Boundaries"
+type: software
+authors:
+  - family-names: "Aryee"
+    given-names: "A."
+repository-code: "https://github.com/Aryee1/twi-english-gesture-prosody-codeswitching"
+date-released: "2026-02-23"
+keywords:
+  - multimodal
+  - gesture
+  - prosody
+  - code-switching
+  - ELAN
+  - Praat
+  - FFmpeg
+related-identifiers:
+  - identifier: "https://doi.org/10.5281/zenodo.18731097"
+    type: doi
+    relation: isSupplementTo
+    resource-type: dataset
+license: MIT

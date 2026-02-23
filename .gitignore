@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Data that should not be committed
+data/raw_videos/
+data/clips/
+data/**/*.mp4
+data/**/*.wav
+
+# Temporary pitch extraction artifacts
+data_index/temp_wav/
+data_index/*.praat
+
+# Outputs that can be regenerated (optional)
+# Uncomment if you prefer not to version derived tables
+# data_index/*.csv

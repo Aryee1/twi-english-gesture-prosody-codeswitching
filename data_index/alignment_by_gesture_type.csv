@@ -1,0 +1,4 @@
+Gesture Type,N,Mean |Δt| (ms),Median |Δt| (ms),Within 50 ms (%),Within 100 ms (%)
+beat,569,97.1,50.0,50.1,69.8
+deictic,115,93.0,46.0,53.9,71.3
+iconic,153,80.9,43.0,55.6,74.5
