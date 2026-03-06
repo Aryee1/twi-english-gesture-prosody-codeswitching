@@ -56,7 +56,7 @@ python scripts/08_rq3_visualize_and_statistical.py
 
 ## Citation
 If you use the dataset, cite:
-Aryee, A. (2026). *Twi–English code-switching multimodal dataset (ELAN annotations + derived features)* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18731097
+Aryee, M.A. (2026). *Twi–English code-switching multimodal dataset (ELAN annotations + derived features)* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18731097
 
 If you use this code, please cite the repository using the `CITATION.cff` file in the root.
 
