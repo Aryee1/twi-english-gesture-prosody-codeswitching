@@ -1,6 +1,6 @@
 ## Release checklist (suggested)
 
-- [ ] Confirm dataset DOI in README: https://doi.org/10.5281/zenodo.18731097
+- [ ] Confirm dataset DOI in README: https://doi.org/10.5281/zenodo.23891055
 - [ ] Replace `repository-code` in CITATION.cff with the GitHub URL
 - [ ] Verify `data/` is ignored and no videos are tracked
 - [ ] Run:
