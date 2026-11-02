@@ -1,3 +1,4 @@
+# NOTE (v1.1.0): superseded method. See scripts/15_final_stats.py and README "Corrected analysis".
 """
 07_analyze_alignment.py
 Summarise gesture-pitch alignment and generate the alignment figure.
