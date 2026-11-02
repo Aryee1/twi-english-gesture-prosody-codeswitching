@@ -1,3 +1,4 @@
+# NOTE (v1.1.0): superseded method. See scripts/15_final_stats.py and README "Corrected analysis".
 """
 08_rq3_visualize_and_statistical.py
 Visualize and analyze gesture density inside vs outside switch windows.
