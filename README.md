@@ -2,7 +2,7 @@
 
 This repository contains the code and derived outputs for a multimodal study of Twi–English code switching, focused on how **gesture strokes** align with **pitch peaks** around switch boundaries.
 
-Dataset (ELAN annotations + derived features) is hosted on Zenodo: https://doi.org/10.5281/zenodo.18731097
+Dataset (ELAN annotations + derived features) is hosted on Zenodo: https://doi.org/10.5281/zenodo.23891055 (Version 1.1.0; v1.0.0 is https://doi.org/10.5281/zenodo.18731097)
 
 ## Corrected analysis (v1.1.0) — start here
 
@@ -71,9 +71,9 @@ python scripts/08_rq3_visualize_and_statistical.py
 
 ## Citation
 If you use the dataset, cite:
-Aryee, M. A. (2026). *Twi–English code-switching multimodal dataset (ELAN annotations + derived features)* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18731097
+Aryee, M. A. (2026). *Twi–English code-switching multimodal dataset (ELAN annotations + derived features)* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23891055
 
-For the accompanying paper, cite: Aryee, M. A. (2026). Exploring gesture and prosodic alignment at code-switching boundaries: A multimodal analysis of Twi-English speech. LingBuzz. https://lingbuzz.net/lingbuzz/009819
+The earlier LingBuzz preprint (https://lingbuzz.net/lingbuzz/009819) reports the superseded v1.0.0 analysis; cite the revised paper once available.
 
 If you use this code, please cite the repository using the `CITATION.cff` file in the root.
 
